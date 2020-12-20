@@ -5,7 +5,6 @@ def countWordsinText(text):
     if isTheTextValid is True:
         arrayOfwords = text.split(" ")
         numberOfWord = len(arrayOfwords)
-
         result = "The number of word in the text \" " + text + " \" is: " + str(numberOfWord)
     else:
          result = "Sorry!" "The Text \"" + str(text) + "\"  is not valid"
