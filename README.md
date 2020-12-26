@@ -5,3 +5,5 @@
 ## 2/ Words-Count-In-Text (Python)
 
 ## 3/ Reverse-A-String (Java)
+
+## 4/ Difference between inheritance and composition (JavaScript)
